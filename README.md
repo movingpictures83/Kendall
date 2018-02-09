@@ -2,6 +2,7 @@
 # Language: R
 # Input: CSV (abundances)
 # Output: CSV (correlations)
+# Tested with: PluMA 1.0, R 3.2.5
 
 PluMA plugin to compute Kendall correlations (Kendall, 1970).
 

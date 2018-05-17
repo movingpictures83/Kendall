@@ -1,0 +1,2 @@
+Prefix plugins/Kendall/example/
+Plugin Kendall inputfile abundN.csv outputfile corrP.kendall.csv
